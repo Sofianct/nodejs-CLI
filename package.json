@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofianct/nodejs-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofianct/nodejs-CLI/issues"
+  },
+  "homepage": "https://github.com/Sofianct/nodejs-CLI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
